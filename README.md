@@ -1,6 +1,6 @@
-Hello and welcome to the repository for Teach Yourself a Foreign Language. Here you can find an Anki deck of the card types I use, which is a supplement to the Flashcards chapter.
+Hello and welcome to the repository for The Language Learner's Handbook. Here you can find an Anki deck of the card types I use, which is a supplement to the Flashcards chapter.
 
-The book is available now for purchase using a pay-what-you want model on Leanpub: https://leanpub.com/howtoteachyourselfaforeignlanguage
+The book is available now for purchase using a pay-what-you want model on Leanpub: https://leanpub.com/TheLanguageLearnersHandbook
 
 If you'd like to make a voluntary donation, separate from the book purchase, please consider buying me a coffee: https://www.buymeacoffee.com/sajforbes
 
